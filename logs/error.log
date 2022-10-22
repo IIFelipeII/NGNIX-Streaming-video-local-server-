@@ -1,0 +1,3 @@
+2022/10/21 17:34:32 [emerg] 15576#24408: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2022/10/21 17:34:58 [emerg] 25196#14812: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
+2022/10/21 17:35:20 [emerg] 7744#25052: CreateDirectory() "/nginx/temp/livestream" failed (3: The system cannot find the path specified)
